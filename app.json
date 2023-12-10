@@ -1,5 +1,5 @@
 {
-  "name": "sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ",
+  "name": "𝐒𝐎𝐔𝐑𝐄  𝐑𝐄𝐏𝐄𝐓𝐎𝐍𝐄",
   "description": "A Telegram Bot to generate Telethon and Pyrogram String Session.",
   "logo": "",
   "keywords": [
@@ -11,7 +11,7 @@
     "buildpacks": [{
     "url": "heroku/python"
   }],
-  "repository": "https://github.com/rogerpq/BOT-GEN",
+  "repository": "https://github.com/kazmabbas/BOT-TOFEY",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
