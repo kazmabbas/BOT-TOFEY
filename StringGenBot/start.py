@@ -25,7 +25,7 @@ async def start(bot: Client, msg: Message):
                     InlineKeyboardButton(text="- بـدء استخـراج الجلسـة .", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton("- قنـاة السـورس .", url="https://t.me/Repthon"),
+                    InlineKeyboardButton("- قنـاة السـورس .", url="https://t.me/repethone"),
                     InlineKeyboardButton("- المطـور .", user_id=OWNER_ID)
                 ]
             ]
